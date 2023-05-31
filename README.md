@@ -1,9 +1,11 @@
 ### About Me
 
 <h1 align="center">Hi 👋, I'm Jack Mei</h1>
-<h3 align="center">A new graduate from UBC</h3>
+<h3 align="center">A recent graduate from UBC</h3>
 
-I'm Jack, I've been developing recreationally and academically for the last 6 years, and professionally for the last two.  I joined the scene because I've always liked simplifying my life (solving problems), so when I got access to the internet, this eventually became me learning using code to my advantage.  This ranged from me learning web-scraping to get piano sheet music, to figuring out how to use cloud microservices to host simple discord bots, and also optical recognition to track my friends in games.
+I'm Jack, I've been developing recreationally and academically for the last 6 years, and professionally for the last two.  I joined the scene because I've always liked simplifying my life (solving problems), so when I got access to the internet, this eventually became me learning using code to my advantage.  This ranged from me learning web-scraping to get piano sheet music, to figuring out how to use cloud microservices to host simple discord bots, and also optical recognition to track my friends in games.  
+
+My most recent work experience is at AWS CIC, where I worked with my partner David to produce a fullstack project using AWS serverless tools to provide thousands of customers for access to clean drinking water.  Read more about it in the pinned link, including a visual architecture diagram!
 
 
 <h3 align="left">Languages and Tools:</h3>
