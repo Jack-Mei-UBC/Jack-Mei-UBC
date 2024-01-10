@@ -1,11 +1,11 @@
 ### About Me
 
 <h1 align="center">Hi 👋, I'm Jack Mei</h1>
-<h3 align="center">A recent graduate from UBC</h3>
+<h3 align="center">A graduate from the University of British Columbia</h3>
 
-I'm Jack, I've been developing recreationally and academically for the last 6 years, and professionally for the last two.  I joined the scene because I've always liked simplifying my life (solving problems), so when I got access to the internet, this eventually became me learning using code to my advantage.  This ranged from me learning web-scraping to get piano sheet music, to figuring out how to use cloud microservices to host simple discord bots, and also optical recognition to track my friends in games.  
+I've been engaged in both recreational and academic development for the past six years, and I've transitioned to professional development in the last two. I first entered the scene because coding seemed like a fun way to make my life easier. This ranged from me learning web-scraping to get piano sheet music, to figuring out how to use cloud microservices to host simple discord bots, and also optical recognition to track my friends in games.
 
-My most recent work experience is at AWS CIC, where I worked with my partner David to produce a fullstack project using AWS serverless tools to provide thousands of customers for access to clean drinking water.  Read more about it in the pinned link, including a visual architecture diagram!
+I'm currently a developer at UBC's Housing Research Collaborative.  Navigating the role of the lone software developer in a research group, I've become adept at tackling diverse challenges. With no direct guidance, the responsibility to develop effective and efficient solutions with the various requests has been a constant challenge. This unique position has pushed me to master the art of effective and rapid domain-specific research, ensuring my work well-aligned with the dynamic needs of our research initiatives.
 
 
 <h3 align="left">Languages and Tools:</h3>
